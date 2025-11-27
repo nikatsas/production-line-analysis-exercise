@@ -20,7 +20,7 @@
 <ol style="max-width: 700px; margin:auto; font-family: Arial, sans-serif; font-size: 15px; color: #2C3E50; line-height:1.5;">
   <li>Clone the repository and open the python</code> folder in your preferred IDE or Jupyter environment (e.g. PyCharm, VS Code, Jupyter Lab/Notebook).</li>
   <li>Make sure Python and pandas</code> are installed in your environment.</li>
-  <li>Open <em>production_sessions.ipynb</em> and run the cells from top to bottom to load the dataset, define the functions, and view the results.</li>
+  <li>Open <em>production_sessions.ipynb</em> and run the cells from top to bottom to load the dataset, define the functions, and view the results. Make sure the notebook reads dataset.csv from the same folder.</li>
 </ol>
 
 <p style="font-family: Arial, sans-serif; font-size: 15px; color: #34495E; max-width: 700px; margin: 30px auto;">
