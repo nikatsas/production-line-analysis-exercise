@@ -17,5 +17,5 @@ It contains my solutions to production line data mentioned in the exercise, focu
    - `/sql` for the SQL scripts and DWH implementation guide.
 2. Each folder includes its own README with more detailed instructions.
 
-If you have any questions during review, I will be happy to walk through the code!
+For detailed instructions you may refer to DOCUMENTATION.md file.
 
