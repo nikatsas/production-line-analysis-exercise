@@ -5,4 +5,3 @@ CREATE TABLE production_line_status (
     timestamp DATETIME
 )
 
--- Note: Import your CSV data into this table using your DWH import methods.
