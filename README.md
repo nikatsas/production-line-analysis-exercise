@@ -5,7 +5,7 @@ It contains my solutions to production line data mentioned in the exercise, focu
 
 ## Repository Structure
 
-- **/python** – Google Colab notebook, Python functions, and sample dataset used to:
+- **/python** – Notebook, Python functions, and sample dataset used to:
   - Parse production line status events from CSV.
   - Compute production sessions, uptime, downtime, and the line with the most downtime.
 - **/sql** – Table creation script, data analysis scripts, and an implementation guide describing how to deploy the SQL solution into a DWH.
